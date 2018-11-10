@@ -1,0 +1,71 @@
+#ali{ 
+   background-color: red     ;
+   color: aqua;
+}
+.mohamed{
+    color: blue  
+}
+.hello{
+    background-color: black ;
+    color: red ;
+}
+p{
+    display: none;
+    background-color: yellow;
+    padding: 20px    
+}
+p{
+    display: block;
+}
+p{
+    color: red;
+}
+p:hover{
+    background-color: blue
+}
+#hello{
+    background-color: yellow;
+    border-left: 30px dotted blueviolet;
+    border-right: 30px dotted blueviolet;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    display: inline;
+}    
+#hamma{
+    color: black;
+    margin: 15px;
+    background-color: yellow;
+    padding-left: 350px;
+}
+#hamma{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+img{
+    width: 50%
+
+}
+#hide{
+    display: none;
+}
+#ahaya{
+    padding-left: 100px;
+    background-color: red;
+}
+#heyu{
+background-color: brown;
+color: black 
+}
+h3{
+    background-color: blueviolet
+}
+
+
+
+
+
+
+
+
